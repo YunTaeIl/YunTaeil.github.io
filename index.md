@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 블로그 소개 하는 글
+
+이게 블로그 소개하는 양식 같음
 
 You can use the [editor on GitHub](https://github.com/YunTaeIl/YunTaeil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
