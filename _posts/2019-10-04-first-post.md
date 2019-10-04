@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 블로그 첫 글
 comments: true
 categories: 이건 왜 필요?
